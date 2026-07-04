@@ -1,0 +1,14 @@
+baseURL = 'https://dg-logs.github.io/'
+languageCode = 'ko-kr'
+title = "dg's Blog"
+theme = "PaperMod"
+
+[params]
+    env = "production"
+    title = "dg's Blog"
+    description = "dg-logs의 기록"
+    
+    [params.profileMode]
+        enabled = true
+        title = "dg's Blog"
+        subtitle = '<b>dg-logs의 기록</b><br><br>"측정할 수 없으면 관리할 수 없다."<br><br>기록하지 않으면 사라지는 공부의 흔적들을 내 것으로 만들기 위한 공간입니다.'
